@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.bg-img{
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+  display:block;
+  padding:0 !important;
+  margin:0;
+  background-position: center;
+}
+
